@@ -1,0 +1,6 @@
+Average characters per word: 4
+56 words of length 2
+56 words of length 3
+56 words of length 4
+110 words of length 11 or longer
+The total number of words: 278
